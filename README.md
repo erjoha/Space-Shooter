@@ -9,5 +9,6 @@ GENERAL USAGE NOTE
 - To run the game open swf.file
 
 OTHER
+--------------------------------------------------------------------------------
 Copyright 2011-2016, Erica Johansson
 
