@@ -7,4 +7,4 @@ GENERAL USAGE NOTE
 --------------------------------------------------------------------------------
 - The interactive game is created in Flash with ActionScript 3.0
 - To run the game open swf.file
---------------------------------------------------------------------------------
+
